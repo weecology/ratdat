@@ -1,0 +1,26 @@
+Package: ratdat
+Type: Package
+Title: Portal Project Teaching Database
+Version: 0.1.0
+Authors@R: c(person("Morgan", "Ernest", email = "morgan@weecology.org",
+                    role = c("aut")),
+             person("James", "Brown", email = "jhbrown@unm.edu",
+                    role = c("aut")),
+             person("Thomas", "Valone", email = "thomas.valone@slu.edu",
+                    role = c("aut")),
+             person("Ethan", "White", email = "ethan@weecology.org",
+                    role = c("aut", "cre")))
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: A simplified version of the Portal Project Database designed for
+    teaching. It provides a real world example of life-history, population, and
+    ecological data, with sufficient complexity to teach many aspects of data
+    analysis and management, but with many complexities removed to allow
+    students to focus on the core ideas and skills being taught. The full
+    database (which should be used for research) is available at
+    <https://github.com/weecology/PortalData>.
+Depends:
+    R (>= 2.10)
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
