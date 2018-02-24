@@ -1,0 +1,5 @@
+# Use Travis CI for basic build testing
+
+language: R
+sudo: false
+cache: packages
