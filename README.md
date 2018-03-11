@@ -7,3 +7,14 @@ This is an R package version of the Portal Project Teaching Database. This datab
 The database is currently available in csv, json, and sqlite at https://doi.org/10.6084/m9.figshare.1314459. Suggested changes or additions to this dataset can be requested or contributed in the project GitHub repository (https://github.com/weecology/portal-teachingdb). The Python code used for converting the original database to this teaching version is included as 'create_portal_teach_dataset.py'.
 
 This database is not designed for research as it intentionally removes some of the real-world complexities. The original database is published at available on GitHub at https://github.com/weecology/PortalData and this version of the database should be used for research purposes.
+
+To install this package:
+
+```
+# install.packages("devtools") # if not already installed
+library(devtools)
+
+install_github("weecology/ratdat")
+
+library(ratdat)
+```
