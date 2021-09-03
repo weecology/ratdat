@@ -1,6 +1,6 @@
 ## ratdat: R package for the Portal Project Teaching Database
 
-[![Build Status](https://travis-ci.org/weecology/ratdat.svg?branch=master)](https://travis-ci.org/weecology/ratdat)
+[![R-CMD-check](https://github.com/weecology/ratdat/actions/workflows/package-check.yml/badge.svg)](https://github.com/weecology/ratdat/actions/workflows/package-check.yml)
 
 This is an R package version of the Portal Project Teaching Database. This database is a simplified version of the Portal Project Database designed for teaching. It provides a real world example of life-history, population, and ecological data, with sufficient complexity to teach many aspects of data analysis and management, but with many complexities removed to allow students to focus on the core ideas and skills being taught.
 
