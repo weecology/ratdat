@@ -10,7 +10,7 @@ Authors@R: c(person("Morgan", "Ernest", email = "morgan@weecology.org",
                     role = c("aut")),
              person("Ethan", "White", email = "ethan@weecology.org",
                     role = c("aut", "cre")))
-Maintainer: The package maintainer <yourself@somewhere.net>
+Maintainer: The package maintainer <ethan@weecology.org>
 Description: A simplified version of the Portal Project Database designed for
     teaching. It provides a real world example of life-history, population, and
     ecological data, with sufficient complexity to teach many aspects of data
