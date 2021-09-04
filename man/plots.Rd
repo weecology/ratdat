@@ -4,14 +4,16 @@
 \name{plots}
 \alias{plots}
 \title{Plots data.}
-\format{A data frame with columns:
+\format{
+A data frame with columns:
 \describe{
 \item{plot_id}{Numeric identifier for the plot}
 \item{plot_type}{Type of experimental manipulation conducted on the plot}
-}}
+}
+}
 \source{
 Portal Project Teaching Database,
- \url{https://doi.org/10.6084/m9.figshare.1314459}
+ \doi{10.6084/m9.figshare.1314459}
 }
 \usage{
 plots
