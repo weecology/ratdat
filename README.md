@@ -8,13 +8,22 @@ The database is currently available in csv, json, and sqlite at https://doi.org/
 
 This database is not designed for research as it intentionally removes some of the real-world complexities. The original database is published at available on GitHub at https://github.com/weecology/PortalData and this version of the database should be used for research purposes.
 
-To install this package:
+### Installation
 
+```R
+install.packages('ratdat')
 ```
-# install.packages("devtools") # if not already installed
-library(devtools)
 
-install_github("weecology/ratdat")
+### Usage
 
+After loading the library four data frames will be available including separate `surveys`, `species`, and `plots` tables as well as a single-table combined version fo these three tables `complete`.
+
+```R
 library(ratdat)
+
+nrow(complete)
+unique(species$genus)
+sum(surveys)
+sum(surveys$weight, na.rm=TRUE)
+unique(plots$plot_type)
 ```
