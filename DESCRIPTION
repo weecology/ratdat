@@ -1,6 +1,7 @@
 Package: ratdat
 Type: Package
 Title: Portal Project Teaching Database
+Version: 1.0.0
 Authors@R: c(person(given = c("S.K.", "Morgan"),
                     family = "Ernest",
                     role = "aut",
