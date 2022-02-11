@@ -1,0 +1,32 @@
+{
+    "creators": [
+      {
+        "affiliation": "University of Florida",
+        "name": "S. K. Morgan Ernest",
+        "orcid": "0000-0002-6026-8530"
+      },
+      {
+        "affiliation": "University of New Mexico",
+        "name": "James H. Brown"
+      },
+      {
+        "affiliation": "Saint Louis University",
+        "name": "Thomas J. Valone",
+        "orcid": "0000-0002-7657-3126"
+      },
+      {
+        "affiliation": "University of Florida",
+        "name": "Ethan P. White",
+        "orcid": "0000-0001-6728-7745"
+      }
+    ],
+    "keywords": [
+      "ecology",
+      "time-series",
+      "long-term",
+      "continuous analysis"
+    ],
+    "license": "cc-zero",
+    "upload_type": "dataset"
+  }
+  

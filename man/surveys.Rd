@@ -4,7 +4,8 @@
 \name{surveys}
 \alias{surveys}
 \title{Survey data.}
-\format{A data frame with columns:
+\format{
+A data frame with columns:
 \describe{
 \item{record_id}{Unique record identifier}
 \item{month}{Month captured}
@@ -15,10 +16,11 @@
 \item{sex}{Sex of the individual}
 \item{hindfoot_length}{Length of a back foot in mm}
 \item{weight}{Weight of the individual in g' Species data.}
-}}
+}
+}
 \source{
 Portal Project Teaching Database,
- \url{https://doi.org/10.6084/m9.figshare.1314459}
+ \doi{10.6084/m9.figshare.1314459}
 }
 \usage{
 surveys

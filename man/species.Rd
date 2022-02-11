@@ -4,16 +4,18 @@
 \name{species}
 \alias{species}
 \title{Species data.}
-\format{A data frame with columns:
+\format{
+A data frame with columns:
 \describe{
 \item{species_id}{Species identifier}
 \item{genus}{The genus of the species}
 \item{species}{The latin species name}
 \item{taxa}{General taxonomic category of the species}
-}}
+}
+}
 \source{
 Portal Project Teaching Database,
- \url{https://doi.org/10.6084/m9.figshare.1314459}
+ \doi{10.6084/m9.figshare.1314459}
 }
 \usage{
 species

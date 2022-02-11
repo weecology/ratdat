@@ -3,7 +3,6 @@
 \docType{package}
 \name{ratdat}
 \alias{ratdat}
-\alias{ratdat-package}
 \title{ratdat.}
 \description{
 Portal Project Teaching Database
