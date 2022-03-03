@@ -18,7 +18,12 @@ Authors@R: c(person(given = c("S.K.", "Morgan"),
                     family = "White",
                     role = c("aut", "cre"),
                     comment = c(ORCID = "0000-0001-6728-7745"),
-                    email = "ethan@weecology.org"))
+                    email = "ethan@weecology.org"),
+             person(given = c("Michael", "J."),
+                    family = "Culshaw-Maurer",
+                    role = "aut",
+                    comment = c(ORCID = "0000-0003-2205-8679"),
+                    email = "culshawmaurer@arizona.edu"))
 Description: A simplified version of the Portal Project Database designed for
     teaching. It provides a real world example of life-history, population, and
     ecological data, with sufficient complexity to teach many aspects of data
