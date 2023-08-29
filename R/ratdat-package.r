@@ -4,4 +4,4 @@
 #'
 #' @name ratdat
 #' @docType package
-NULL
+"_PACKAGE"

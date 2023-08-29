@@ -3,7 +3,20 @@
 \docType{package}
 \name{ratdat}
 \alias{ratdat}
+\alias{ratdat-package}
 \title{ratdat.}
 \description{
 Portal Project Teaching Database
+}
+\author{
+\strong{Maintainer}: Ethan P. White \email{ethan@weecology.org} (\href{https://orcid.org/0000-0001-6728-7745}{ORCID})
+
+Authors:
+\itemize{
+  \item S.K. Morgan Ernest (\href{https://orcid.org/0000-0002-6026-8530}{ORCID})
+  \item James H. Brown \email{jhbrown@unm.edu}
+  \item Thomas J. Valone \email{thomas.valone@slu.edu}
+  \item Michael J. Culshaw-Maurer \email{culshawmaurer@arizona.edu} (\href{https://orcid.org/0000-0003-2205-8679}{ORCID})
+}
+
 }
