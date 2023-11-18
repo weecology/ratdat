@@ -1,7 +1,6 @@
-#' ratdat.
-#'
-#' Portal Project Teaching Database
-#'
-#' @name ratdat
-#' @docType package
+#' @keywords internal
 "_PACKAGE"
+
+## usethis namespace: start
+## usethis namespace: end
+NULL
