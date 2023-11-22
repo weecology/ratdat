@@ -14,6 +14,6 @@
 #' \item{species_id}{Species identifier}
 #' \item{sex}{Sex of the individual}
 #' \item{hindfoot_length}{Length of a back foot in mm}
-#' \item{weight}{Weight of the individual in g' Species data.}
+#' \item{weight}{Weight of the individual in g}
 #' }
 "surveys"
